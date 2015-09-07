@@ -332,39 +332,39 @@
     <ZoneID>1</ZoneID>
     <ActionID>1</ActionID>
     <ActionTypeID>15</ActionTypeID>
-    <Color1>#FF6400F0</Color1>
-    <Color2>#FF0060F0</Color2>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF9000F0</Color2>
     <Duration>0</Duration>
   </Actions>
   <Actions>
     <ZoneID>2</ZoneID>
     <ActionID>2</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF00A0F0</Color1>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
     <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
+    <Duration>1</Duration>
   </Actions>
   <Actions>
     <ZoneID>2</ZoneID>
     <ActionID>3</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
     <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
+    <Duration>1</Duration>
   </Actions>
   <Actions>
     <ZoneID>2</ZoneID>
     <ActionID>4</ActionID>
     <ActionTypeID>1</ActionTypeID>
     <Color1>#FF000000</Color1>
-    <Color2>#FF00A0F0</Color2>
-    <Duration>0</Duration>
+    <Color2>#FF9000F0</Color2>
+    <Duration>1</Duration>
   </Actions>
   <Actions>
     <ZoneID>2</ZoneID>
     <ActionID>5</ActionID>
     <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF00A0F0</Color1>
+    <Color1>#FF9000F0</Color1>
     <Color2>#FF000000</Color2>
     <Duration>1</Duration>
   </Actions>
@@ -372,431 +372,495 @@
     <ZoneID>2</ZoneID>
     <ActionID>6</ActionID>
     <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF00A0F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>2</ZoneID>
-    <ActionID>7</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>2</ZoneID>
-    <ActionID>8</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF6400F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>2</ZoneID>
-    <ActionID>9</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF6400F0</Color1>
+    <Color1>#FF9000F0</Color1>
     <Color2>#FF000000</Color2>
     <Duration>1</Duration>
   </Actions>
   <Actions>
     <ZoneID>2</ZoneID>
+    <ActionID>7</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF0000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>2</ZoneID>
+    <ActionID>8</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>3</ZoneID>
+    <ActionID>9</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>3</ZoneID>
     <ActionID>10</ActionID>
     <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF6400F0</Color1>
+    <Color1>#FF0000F0</Color1>
     <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
+    <Duration>1</Duration>
   </Actions>
   <Actions>
-    <ZoneID>2</ZoneID>
+    <ZoneID>3</ZoneID>
     <ActionID>11</ActionID>
-    <ActionTypeID>3</ActionTypeID>
+    <ActionTypeID>1</ActionTypeID>
     <Color1>#FF000000</Color1>
+    <Color2>#FF9000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>3</ZoneID>
+    <ActionID>12</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>3</ZoneID>
+    <ActionID>13</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>3</ZoneID>
+    <ActionID>14</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF0000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>3</ZoneID>
+    <ActionID>15</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>4</ZoneID>
+    <ActionID>16</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>4</ZoneID>
+    <ActionID>17</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>4</ZoneID>
+    <ActionID>18</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF9000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>4</ZoneID>
+    <ActionID>19</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>4</ZoneID>
+    <ActionID>20</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>4</ZoneID>
+    <ActionID>21</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF0000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>4</ZoneID>
+    <ActionID>22</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>5</ZoneID>
+    <ActionID>23</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>5</ZoneID>
+    <ActionID>24</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>5</ZoneID>
+    <ActionID>25</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF9000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>5</ZoneID>
+    <ActionID>26</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>5</ZoneID>
+    <ActionID>27</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>5</ZoneID>
+    <ActionID>28</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF0000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>5</ZoneID>
+    <ActionID>29</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>6</ZoneID>
+    <ActionID>30</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>6</ZoneID>
+    <ActionID>31</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>6</ZoneID>
+    <ActionID>32</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF9000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>6</ZoneID>
+    <ActionID>33</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>6</ZoneID>
+    <ActionID>34</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>6</ZoneID>
+    <ActionID>35</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF0000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>6</ZoneID>
+    <ActionID>36</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF0000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>7</ZoneID>
+    <ActionID>37</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>7</ZoneID>
+    <ActionID>38</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>7</ZoneID>
+    <ActionID>39</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF9000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>7</ZoneID>
+    <ActionID>40</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>7</ZoneID>
+    <ActionID>41</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>7</ZoneID>
+    <ActionID>42</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF00A0F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>7</ZoneID>
+    <ActionID>43</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>8</ZoneID>
+    <ActionID>44</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
     <Color2>#FF000000</Color2>
     <Duration>0</Duration>
   </Actions>
   <Actions>
-    <ZoneID>2</ZoneID>
-    <ActionID>12</ActionID>
+    <ZoneID>9</ZoneID>
+    <ActionID>45</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>9</ZoneID>
+    <ActionID>46</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>9</ZoneID>
+    <ActionID>47</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF9000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>9</ZoneID>
+    <ActionID>48</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>9</ZoneID>
+    <ActionID>49</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>9</ZoneID>
+    <ActionID>50</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF00A0F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>9</ZoneID>
+    <ActionID>51</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>10</ZoneID>
+    <ActionID>52</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>10</ZoneID>
+    <ActionID>53</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>10</ZoneID>
+    <ActionID>54</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF9000F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>10</ZoneID>
+    <ActionID>55</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>10</ZoneID>
+    <ActionID>56</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>10</ZoneID>
+    <ActionID>57</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF000000</Color1>
+    <Color2>#FF00A0F0</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>10</ZoneID>
+    <ActionID>58</ActionID>
+    <ActionTypeID>3</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>1</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>11</ZoneID>
+    <ActionID>59</ActionID>
+    <ActionTypeID>1</ActionTypeID>
+    <Color1>#FF00A0F0</Color1>
+    <Color2>#FF000000</Color2>
+    <Duration>0</Duration>
+  </Actions>
+  <Actions>
+    <ZoneID>11</ZoneID>
+    <ActionID>60</ActionID>
     <ActionTypeID>1</ActionTypeID>
     <Color1>#FF000000</Color1>
     <Color2>#FF00A0F0</Color2>
     <Duration>0</Duration>
   </Actions>
   <Actions>
-    <ZoneID>2</ZoneID>
-    <ActionID>13</ActionID>
+    <ZoneID>22</ZoneID>
+    <ActionID>61</ActionID>
     <ActionTypeID>3</ActionTypeID>
     <Color1>#FF00A0F0</Color1>
     <Color2>#FF000000</Color2>
     <Duration>0</Duration>
   </Actions>
   <Actions>
-    <ZoneID>6</ZoneID>
-    <ActionID>14</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF9000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>6</ZoneID>
-    <ActionID>15</ActionID>
+    <ZoneID>23</ZoneID>
+    <ActionID>62</ActionID>
     <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF9000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>6</ZoneID>
-    <ActionID>16</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>6</ZoneID>
-    <ActionID>17</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF0000F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>6</ZoneID>
-    <ActionID>18</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF0000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>6</ZoneID>
-    <ActionID>19</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF0000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>6</ZoneID>
-    <ActionID>20</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>6</ZoneID>
-    <ActionID>21</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
+    <Color1>#FF00A0F0</Color1>
     <Color2>#FF9000F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>6</ZoneID>
-    <ActionID>22</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF9000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>7</ZoneID>
-    <ActionID>23</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF9000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>7</ZoneID>
-    <ActionID>24</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF9000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>7</ZoneID>
-    <ActionID>25</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>7</ZoneID>
-    <ActionID>26</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF0000F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>7</ZoneID>
-    <ActionID>27</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF0000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>7</ZoneID>
-    <ActionID>28</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF0000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>7</ZoneID>
-    <ActionID>29</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>7</ZoneID>
-    <ActionID>30</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF9000F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>7</ZoneID>
-    <ActionID>31</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF9000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>8</ZoneID>
-    <ActionID>32</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF6400F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>9</ZoneID>
-    <ActionID>33</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF9000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>9</ZoneID>
-    <ActionID>34</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF9000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>9</ZoneID>
-    <ActionID>35</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>9</ZoneID>
-    <ActionID>36</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF0000F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>9</ZoneID>
-    <ActionID>37</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF0000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>9</ZoneID>
-    <ActionID>38</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF0000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>9</ZoneID>
-    <ActionID>39</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>9</ZoneID>
-    <ActionID>40</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF9000F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>9</ZoneID>
-    <ActionID>41</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF9000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>10</ZoneID>
-    <ActionID>42</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF0000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>10</ZoneID>
-    <ActionID>43</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF0000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>10</ZoneID>
-    <ActionID>44</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>10</ZoneID>
-    <ActionID>45</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FFF000F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>10</ZoneID>
-    <ActionID>46</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FFF000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>10</ZoneID>
-    <ActionID>47</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FFF000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>10</ZoneID>
-    <ActionID>48</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>10</ZoneID>
-    <ActionID>49</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF0000F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>10</ZoneID>
-    <ActionID>50</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF0000F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>11</ZoneID>
-    <ActionID>51</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF6400F0</Color1>
-    <Color2>#FF000000</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>11</ZoneID>
-    <ActionID>52</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF000000</Color1>
-    <Color2>#FF6400F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>22</ZoneID>
-    <ActionID>53</ActionID>
-    <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF6400F0</Color1>
-    <Color2>#FF000000</Color2>
     <Duration>0</Duration>
   </Actions>
   <Actions>
     <ZoneID>23</ZoneID>
-    <ActionID>54</ActionID>
+    <ActionID>63</ActionID>
     <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF6400F0</Color1>
-    <Color2>#FF0060F0</Color2>
-    <Duration>0</Duration>
-  </Actions>
-  <Actions>
-    <ZoneID>23</ZoneID>
-    <ActionID>55</ActionID>
-    <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF0060F0</Color1>
-    <Color2>#FF6400F0</Color2>
+    <Color1>#FF9000F0</Color1>
+    <Color2>#FF00A0F0</Color2>
     <Duration>0</Duration>
   </Actions>
   <Actions>
     <ZoneID>24</ZoneID>
-    <ActionID>56</ActionID>
+    <ActionID>64</ActionID>
     <ActionTypeID>1</ActionTypeID>
-    <Color1>#FF0060F0</Color1>
+    <Color1>#FF9000F0</Color1>
     <Color2>#FF000000</Color2>
     <Duration>0</Duration>
   </Actions>
   <Actions>
     <ZoneID>24</ZoneID>
-    <ActionID>57</ActionID>
+    <ActionID>65</ActionID>
     <ActionTypeID>1</ActionTypeID>
     <Color1>#FF000000</Color1>
-    <Color2>#FF0060F0</Color2>
+    <Color2>#FF9000F0</Color2>
     <Duration>0</Duration>
   </Actions>
   <Actions>
     <ZoneID>25</ZoneID>
-    <ActionID>58</ActionID>
+    <ActionID>66</ActionID>
     <ActionTypeID>3</ActionTypeID>
-    <Color1>#FF0060F0</Color1>
+    <Color1>#FF9000F0</Color1>
     <Color2>#FF000000</Color2>
     <Duration>0</Duration>
   </Actions>
   <Actions>
     <ZoneID>26</ZoneID>
-    <ActionID>59</ActionID>
+    <ActionID>67</ActionID>
     <ActionTypeID>2</ActionTypeID>
-    <Color1>#FF0060F0</Color1>
+    <Color1>#FF9000F0</Color1>
     <Color2>#FF000000</Color2>
     <Duration>0</Duration>
   </Actions>
@@ -1087,10 +1151,10 @@
   </Leds>
   <Theme>
     <ThemeID>1</ThemeID>
-    <Name>New Plasma Pulse</Name>
+    <Name>Unplugged Blue Purple</Name>
     <Version>2.0.0.0</Version>
     <Mode>1</Mode>
-    <ActionDuration>2</ActionDuration>
+    <ActionDuration>0.8</ActionDuration>
     <Tempo>200</Tempo>
     <ReadOnly>false</ReadOnly>
   </Theme>
@@ -1216,7 +1280,7 @@
     <VisualizationID>1</VisualizationID>
     <ZoneID>1</ZoneID>
     <Name>1</Name>
-    <Loop>false</Loop>
+    <Loop>true</Loop>
     <Flags>8004</Flags>
     <Fixed>true</Fixed>
     <ID>1</ID>
@@ -1236,7 +1300,7 @@
     <VisualizationID>1</VisualizationID>
     <ZoneID>3</ZoneID>
     <Name>3</Name>
-    <Loop>false</Loop>
+    <Loop>true</Loop>
     <Flags>007F</Flags>
     <Fixed>false</Fixed>
     <ID>3</ID>
@@ -1246,7 +1310,7 @@
     <VisualizationID>1</VisualizationID>
     <ZoneID>4</ZoneID>
     <Name>4</Name>
-    <Loop>false</Loop>
+    <Loop>true</Loop>
     <Flags>007F</Flags>
     <Fixed>false</Fixed>
     <ID>4</ID>
@@ -1256,7 +1320,7 @@
     <VisualizationID>1</VisualizationID>
     <ZoneID>5</ZoneID>
     <Name>5</Name>
-    <Loop>false</Loop>
+    <Loop>true</Loop>
     <Flags>007F</Flags>
     <Fixed>false</Fixed>
     <ID>5</ID>
